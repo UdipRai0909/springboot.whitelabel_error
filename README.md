@@ -1,0 +1,1 @@
+# springboot.whitelabel_error
